@@ -57,11 +57,11 @@ Your changes will be reviewed by the website owner (teddyaroca) and accepted or 
 
 This folder contains the RStudio code (markdown) and procedure for plotting and analyses. 
 
-## metadata
+## Metadata
 
 In this directory, we provide all datasets and metadata per species/strain.
 
-## figures
+## Figures
 
 Contains figures from analyses, including the initial exploratory figures modeling data.
 
